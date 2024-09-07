@@ -1,0 +1,22 @@
+{
+    "id": 35448603,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Michigun", "Riot", "Asonicmen", "weoweoteo", "Etzer", "Giron", "Crack", "GgB0y", "Havok", "Vermillion", "Evasium"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "dudeontheinternet",
+            "link": "",
+            "percent": 100
+        },
+      {
+            "user": "Jorvan765",
+            "link": "https://youtu.be/JB6Shq34zQs?si=K3TIjaNhOd5SZLoZ",
+            "percent": 100
+        }
+    ]
+}
