@@ -56,7 +56,7 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> required to qualify</p>
+                    <p v-if="selected + 1 <= 10"><strong>{{ level.percentToQualify }}%</strong> required to qualify</p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> required to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
@@ -95,12 +95,15 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Info (important)</h3>
                     <p>
                         Don't use hacks. CBF is allowed.
                     </p>
                     <p>
                         Video proof is recommended but not required for insane demons and below. Extreme demons require video proof. Top 500 extreme demons require clicks/taps or/and an approved AREDL/Pointercrate record.
+                    </p>
+                    <p>
+                        The main list is top 1-10. The extended list is top 10+
                     </p>
                     <p>
                         Secret ways or major swag routes are not allowed.
