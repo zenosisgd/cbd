@@ -100,10 +100,13 @@ export default {
                         Don't use hacks. CBF is allowed.
                     </p>
                     <p>
-                        Video proof is recommended for insane demons and below. Extreme demons require video proof. Top 500 extreme demons require clicks/taps or/and an approved AREDL/Pointercrate record.
+                        Video proof is recommended but not required for insane demons and below. Extreme demons require video proof. Top 500 extreme demons require clicks/taps or/and an approved AREDL/Pointercrate record.
                     </p>
                     <p>
                         Secret ways or major swag routes are not allowed.
+                    </p>
+                    <p>
+                        All placements are ranked based on the GDLadder and AREDL.
                     </p>
                     <p>
                         When submitting your hardest demon, actually make sure it's your hardest demon. You can check that using the GDLadder or AREDL.
