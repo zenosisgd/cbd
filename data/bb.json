@@ -8,15 +8,5 @@
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
-        {
-            "user": "dudeontheinternet",
-            "link": "",
-            "percent": 100
-        },
-      {
-            "user": "Jorvan765",
-            "link": "https://youtu.be/JB6Shq34zQs?si=K3TIjaNhOd5SZLoZ",
-            "percent": 100
-        }
     ]
 }
