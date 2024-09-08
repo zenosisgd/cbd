@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Zenosis",
+            "link": "https://www.youtube.com/watch?v=ycyI10H6GJ0",
+            "percent": 100,
+        }
     ]
 }
