@@ -1,5 +1,5 @@
 import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
+import { localize } from '../util.js'; // Updated localize function here
 
 import Spinner from '../components/Spinner.js';
 
