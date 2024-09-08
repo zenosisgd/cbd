@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "696969",
     "records": [
+        {
+            "user": "Jorvan765",
+            "link": "",
+            "percent": 100
+        }
     ]
 }
