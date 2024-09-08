@@ -114,6 +114,9 @@ export default {
                     <p>
                         When submitting your hardest demon, actually make sure it's your hardest demon. You can check that using the GDLadder or AREDL.
                     </p>
+                    <p>
+                        Join the Discord server to view the changelog of the list, more list stuff and other server stuff.
+                    </p>
                 </div>
             </div>
         </main>
@@ -151,7 +154,7 @@ export default {
         // Error handling
         if (!this.list) {
             this.errors = [
-                "Failed to load list. Retry in a few minutes or notify list staff.",
+                "Failed to load list. Retry in a few minutes or notify zenoiscool on Discord.",
             ];
         } else {
             this.errors.push(
