@@ -100,7 +100,7 @@ export default {
                         Don't use hacks. CBF is allowed.
                     </p>
                     <p>
-                        Every demon submission requires some sort of proof. Easy demons-insane demons don't require video proof, but it is recommended. They do require screenshots though. Video proof is required for extreme demons, top 300 extreme demon submissions require videos with clicks or/and an approved AREDL/Pointercrate submission.
+                        Every demon submission requires some sort of proof. Easy demons-insane demons don't require video proof, but it is recommended. Video proof is required for extreme demons, top 300 extreme demon submissions require videos with clicks or/and an approved AREDL/Pointercrate submission.
                     </p>
                     <p>
                         The main list is top 1-10. The extended list is top 10+
