@@ -117,6 +117,9 @@ export default {
                     <p>
                         Join the Discord server to view the changelog of the list, more list stuff and other server stuff.
                     </p>
+                    <p>
+                        If a mistake is made, please contact zenoiscool on Discord.
+                    </p>
                 </div>
             </div>
         </main>
