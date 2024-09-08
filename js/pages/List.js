@@ -115,6 +115,9 @@ export default {
                         When submitting your hardest demon, actually make sure it's your hardest demon. You can check that using the GDLadder or AREDL.
                     </p>
                     <p>
+                        Submit your hardest demon/demon completion via the button on the site. I don't accept submissions on the Discord server.
+                    </p>
+                    <p>
                         Join the Discord server to view the changelog of the list, more list stuff and other server stuff.
                     </p>
                     <p>
