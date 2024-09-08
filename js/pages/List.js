@@ -97,6 +97,9 @@ export default {
                     </template>
                     <h3>Info (important)</h3>
                     <p>
+                        This list is based off the hardest demons beaten by server members. You can join the server by pressing the Discord icon at the top.
+                    </p>
+                    <p>
                         Don't use hacks. CBF is allowed.
                     </p>
                     <p>
