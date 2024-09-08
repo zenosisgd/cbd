@@ -1,5 +1,5 @@
 import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js'; // Updated localize function here
+import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
 
@@ -13,7 +13,7 @@ export default {
         selected: 0,
         err: [],
     }),
-    template: `
+    template: 
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
@@ -91,7 +91,7 @@ export default {
                 </div>
             </div>
         </main>
-    `,
+    ,
     computed: {
         entry() {
             return this.leaderboard[this.selected];
