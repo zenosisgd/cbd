@@ -95,7 +95,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Info (important)</h3>
+                    <h3>Info (READ!)</h3>
                     <p>
                         This list is based off the hardest demons beaten by server members. You can join the server by pressing the Discord icon at the top.
                     </p>
