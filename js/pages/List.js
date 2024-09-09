@@ -100,7 +100,10 @@ export default {
                         This list is based off the hardest demons beaten by server members. You can join the server by pressing the Discord icon at the top.
                     </p>
                     <p>
-                        Don't use hacks. CBF is allowed.
+                        If the person who has his hardest demon placed on the list gets a new hardest, the former hardest demon will be removed from the list. UNLESS there are other records submitted for that level.
+                    </p>
+                    <p>
+                        Don't use hacks.
                     </p>
                     <p>
                         Every demon submission requires some sort of proof. Easy demons-insane demons don't require video proof, but it is recommended. Video proof is required for extreme demons, top 300 extreme demon submissions require videos with clicks or/and an approved AREDL/Pointercrate submission.
